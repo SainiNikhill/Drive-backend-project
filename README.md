@@ -1,4 +1,4 @@
-# Yas Drive - A Private File Storage and Download System
+# Drive - A Private File Storage and Download System
 
 ## 📌 Project Overview
 Yas Drive is a **private cloud storage application** where users can securely upload, store, and download their files. The application ensures that **only the user who uploaded a file can download it** using Supabase storage and MongoDB for file metadata.
